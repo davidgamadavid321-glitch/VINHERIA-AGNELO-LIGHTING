@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="vinheria_agnello/imgs/circuit_image.png" width="600" alt="Circuito montado no Tinkercard">
+</p>
 
 1. Visão Geral
 O sistema monitora continuamente os níveis de luminosidade, garantindo condições ideais de conservação dos vinhos. Utiliza sensor LDR, LEDs indicadores, buzzer e LCD para alertas visuais e sonoros.
